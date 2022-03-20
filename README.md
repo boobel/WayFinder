@@ -6,4 +6,4 @@ WayFinder to prosty program, dzięki któremu robot, startujący z dowolnego, lo
 
 Kod programu wystarczy skompilować w dowolnym środowisku(IDE), funkcjonalność programu jest w pełni automatyczna.
 Przykładowe działanie programu:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/boobel/WayFinder/blob/master/res/GIF.gif)
