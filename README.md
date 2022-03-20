@@ -9,7 +9,7 @@ Przykładowe działanie programu:
 
 ![This is an image](https://github.com/boobel/WayFinder/blob/master/res/GIF.gif)
 
-x reprezentuje drogę przebytą przez robota, ! reprezentuje pozycję końcową. Zgodnie z wymaganiami aktualizacja pozycji robota występuje co 4 kroki.
+**x** reprezentuje drogę przebytą przez robota, **!** reprezentuje pozycję końcową. Zgodnie z wymaganiami aktualizacja pozycji robota występuje co 4 kroki.
 
 ## Funkcjonalność
 
